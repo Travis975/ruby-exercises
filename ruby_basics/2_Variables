@@ -1,0 +1,13 @@
+number = 1 
+	puts number 
+
+
+variable2 = number + 57 
+	puts variable2
+
+a = 56
+b = 27
+
+c = a + b
+
+	puts c
