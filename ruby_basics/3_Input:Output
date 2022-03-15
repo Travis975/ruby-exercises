@@ -1,0 +1,20 @@
+#To output information use the "print" statement
+#Can also be done with the "puts" statement
+#The difference betweent the two is "puts" appeals	 a new line while "prints" keeps it all on one 		 line
+
+print "Hello World!"
+
+puts "Hello World!"
+
+#The "gets" statement is used when you want a value 	from the user
+
+puts "Enter a number: "
+value = gets
+puts value
+
+
+#The "putc" statement is used when you want to take 	the first letter of a string
+
+str = "Hello world!"
+putc str
+H
